@@ -1,9 +1,5 @@
 # Twitt app
 
-In the project directory, you can run:
-
-### `npm start`
-
 ![Screen](TwittScreen1.png)
 
 App features:
