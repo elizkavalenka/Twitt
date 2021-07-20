@@ -1,5 +1,8 @@
 # Twitt app
 
+https://twitt-app.netlify.app/
+
+
 ![Screen](TwittScreen1.png)
 
 App features:
@@ -9,5 +12,3 @@ App features:
 - Search for messages using search bar
 
 ![Screen](TwittScreen2.png)
-
-https://twitt-app.netlify.app/
